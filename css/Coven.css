@@ -1,0 +1,18 @@
+body{
+  background-image: url("https://wallpapers.com/images/high/red-tree-ahounaqnysw3p5bs.webp");
+    background-attachment: fixed;
+    background-size: cover;
+    
+} 
+
+.container-texto-links div{
+    width: 150px;
+    display: inline-flex;
+    align-items:center;
+    justify-content:center;
+  
+  
+  }
+
+  
+  

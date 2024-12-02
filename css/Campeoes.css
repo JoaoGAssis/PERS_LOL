@@ -1,0 +1,13 @@
+body {
+background-color: black;
+}
+
+.container-texto-links div{
+  width: 150px;
+  display: inline-flex;
+  align-items:center;
+  justify-content:center;
+
+
+}
+

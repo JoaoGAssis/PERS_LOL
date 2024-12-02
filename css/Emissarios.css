@@ -1,0 +1,17 @@
+body {
+    background: rgb(235,71,98);
+background: linear-gradient(90deg, rgba(53,195,246,1) 0%, rgba(178,228,246,1) 19%,
+ rgba(176,186,198,1) 33%, rgba(0,0,0,1) 50%, rgba(149,21,7,1) 68%, rgba(199,49,8,1) 88%, rgba(187,62,12,1) 100%);
+background-attachment: fixed;
+    }
+
+    .container-texto-links div{
+      width: 150px;
+      display: inline-flex;
+      align-items:center;
+      justify-content:center;
+    
+    
+    }                                                                                        
+
+    
